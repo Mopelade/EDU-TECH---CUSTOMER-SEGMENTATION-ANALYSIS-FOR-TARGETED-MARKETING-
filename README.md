@@ -15,6 +15,6 @@
  ## Power BI Link:
 https://app.powerbi.com/links/z7ap5H7gRh?ctid=056e52ff-3fcb-4f6b-8251-481ea120fd41&pbi_source=linkShare
 
-
+![](edu tech/educustomer.png)
 
 
