@@ -6,9 +6,11 @@
  ## Data Set Description:
   The analysis will be based on three months of data spanning various stages of the customer acquisition process.
   The dataset comprises four tables:
+  1.Customer Acquisition Key Stage
+  2.Lead Basic Details
+  3.Sales Manager Assigned Leads Details
+  4.Lead Interaction Details
 
-1.Customer Acquisition Key Stage
-2.Lead Basic Details
-3.Sales Manager Assigned Leads Details
-4.Lead Interaction Details
+  
+
 
