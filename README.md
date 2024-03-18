@@ -36,3 +36,19 @@ https://app.powerbi.com/links/z7ap5H7gRh?ctid=056e52ff-3fcb-4f6b-8251-481ea120fd
 
 ### Customer Analysis
 ![](edutech/educustomer.png)
+
+## Insights
+
+1. Funnel Analysis: The Lead to Award stage experiences the highest drop-off, with 239 leads dropping off from 358 at the Awareness stage.
+2. Lead Generation Channel: Social media is the top lead generation channel, but email marketing has the highest conversion rate at 26%.
+3. Lead Generation by Day: Leads are primarily generated on Saturdays, followed by Mondays.
+4. Junior Sales Manager Performance: Junior sales managers reaching out to allocated leads within 2-3 days achieve the highest conversion rates and rank among top performers.
+
+## Recommendation:
+1. Channel Optimization: While social media is a significant lead generator ,allocate resources to optimize email marketing efforts further. Leverage the high conversation rate of email marketing by investing in targeted campaigns and personalized messaging.
+
+2. Lead Allocation Timing: Encourage junior sales managers to promptly reach out to allocated leads within 2-3 days after allocation, as this timing correlates with higher conversation rates. Implement training programs or reminders to ensure timely follow-ups.
+
+3. Lead Generation Timing: Given the higher lead generation on Saturdays and Mondays, consider adjusting marketing strategies to capitalize or social media posts to coincide with peak lead generation times.
+
+4. Junior Sales Manager Recognition: Recognize and incentive junior sales manager who consistently achieve high conversation rates, Foster a culture of performance recognition to motivate and retain top talent within the sales team.
